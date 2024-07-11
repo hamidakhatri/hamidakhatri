@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 👩‍🎓 I'm a third-year PhD candidate in Arts, Technology, and Emerging Communication at the Harry W. Jr. Bass School of Arts, Humanities, and Technology, The University of Texas at Dallas. 
-- 🔭 I’m currently working on my doctoral thesis proposal.
-- 🌱 I’m currently learning about federal funding, grant writing, grant management, journal editing and publishing along with peer reviewing process.
-- 👯 I’m looking to collaborate on my thesis project that is using VR for Gender-Based Violence -> https://www.vrcatalyst.org/
+- 🔭 I’m currently working on my doctoral thesis -> https://www.vrcatalyst.org/
+- 🌱 I’m also learning about federal funding, grant writing, grant management, journal editing and publishing along with peer reviewing process.
 - 💬 Ask me about my multiple degrees and certifications.
 - 📫 How to reach me: https://www.hamidakhatri.com/contact
 - 😄 Pronouns: she/her/hers
